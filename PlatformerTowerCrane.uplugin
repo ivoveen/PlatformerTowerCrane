@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PlatformerTowerCrane",
+	"Description": "A Tower Crane that can be controlled with keyframes",
+	"Category": "Other",
+	"CreatedBy": "IvovanderVeen",
+	"CreatedByURL": "https://www.fab.com/sellers/Ivo%20van%20der%20Veen",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PlatformerTowerCrane",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
